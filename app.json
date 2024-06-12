@@ -14,6 +14,11 @@
     "ios": {
       "supportsTablet": true
     },
+    "dependencies": {
+        "dependencies": {
+          "expo-image": "^x.x.x"
+        }
+    },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
@@ -24,4 +29,5 @@
       "favicon": "./assets/favicon.png"
     }
   }
+  
 }
